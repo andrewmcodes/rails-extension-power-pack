@@ -2,6 +2,10 @@
 
 A collection of my favorite VS Code extensions for Ruby on Rails development.
 
+## Install
+
+You can install the extension pack from [Open VSX](https://open-vsx.org/extension/andrewmcodes/rails-extension-power-pack) or the [Visual Studio Marketplace.](https://marketplace.visualstudio.com/manage/publishers/andrewmcodes/extensions/rails-extension-power-pack/hub?_a=acquisition)
+
 ## Extensions
 
 | Extension | Version | Description |
