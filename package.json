@@ -1,0 +1,57 @@
+{
+  "name": "rails-extension-power-pack",
+  "displayName": "Rails Extension Power Pack",
+  "description": "Andrew Mason's favorite extensions for Rails development in Visual Studio Code",
+  "publisher": "andrewmcodes",
+  "icon": "assets/REPP_128x.png",
+  "readme": "README.md",
+  "author": {
+    "name": "Andrew Mason",
+    "url": "https://andrewm.codes/"
+  },
+  "license": "MIT",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.67.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andrewmcodes/rails-extension-power-pack.git"
+  },
+  "keywords": [
+    "rails",
+    "ROR",
+    "Ruby on Rails",
+    "ruby",
+    "erb",
+    "haml",
+    "migrations"
+  ],
+  "extensionPack": [
+    "redhat.vscode-yaml",
+    "wingrunr21.vscode-ruby",
+    "KoichiSasada.vscode-rdbg",
+    "vortizhe.simple-ruby-erb",
+    "castwide.solargraph",
+    "rebornix.ruby",
+    "soutaro.rbs-syntax",
+    "tmikoss.rails-latest-migration",
+    "tavo.rails-schema",
+    "noku.rails-run-spec-vscode",
+    "makicamel.rails-routes-navigator",
+    "aki77.rails-routes",
+    "bweave.rails-flip-flop",
+    "benspaulding.procfile",
+    "jemmyw.rails-fast-nav",
+    "ninoseki.vscode-gem-lens",
+    "elia.erb-formatter",
+    "kaiwood.endwise",
+    "GauravSharma.colorized-access-modifier",
+    "karunamurti.haml",
+    "pavlitsky.yard",
+    "philiplambok.vscode-rails-docs"
+  ]
+}
